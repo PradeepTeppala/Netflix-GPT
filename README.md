@@ -15,6 +15,11 @@
 - Created Redux Store With userSlice
 - Implemented Sign Out
 - Update Profile
+- Fetch From TMDB Movies
+- BugFix: Sign Up user displayName and Profile picture update
+- BugFix: if the user is not Logged in Redirect / browse to Login Page and vice-verse
+- unsunscribe to the onAuthStateChanged callback
+- Add hardcoded values to the constants file
 
 # Features
 
